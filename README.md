@@ -1,5 +1,5 @@
 # B3-URT-Customauth
-Simple plugin for the bigbrotherbot which makes the displayed auth customizable
+Simple plugin for the bigbrotherbot which lets users set a custom auth
 
 ## How to install
 put the 'customauth.py' into your /b3/extplugins folder
