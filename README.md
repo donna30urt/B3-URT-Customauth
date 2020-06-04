@@ -9,6 +9,7 @@ add the following line to your b3.xml
 
 ## Commands
 !setauth <auth>
+  
 !removeauth <player>
 
 ## Side note
